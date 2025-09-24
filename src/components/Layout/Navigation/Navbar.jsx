@@ -183,7 +183,7 @@ function Navbar() {
                 />
               </div>
               <span className="text-2xl font-bold gradient-text">
-                giasinguyen
+                anisashaik
               </span>
             </motion.button>
           </div>
