@@ -151,8 +151,8 @@ function Home() {
           </div>
 
           <p className="hero-element text-slate-300 text-lg mb-10 max-w-2xl leading-relaxed">
-            Final-year <span className="text-emerald-400 font-semibold">Software Engineering</span> student at IUH with solid experience in 
-            <span className="text-blue-400 font-semibold"> Java & Spring Boot</span>. Passionate about backend development, 
+            Final-year <span className="text-emerald-400 font-semibold">Software Engineering</span> student at University of Florida with solid experience in 
+            <span className="text-blue-400 font-semibold"> Software Engineering</span>. Passionate about backend development, 
             database design, and building <span className="text-violet-400 font-semibold">scalable applications</span>. 
             Seeking opportunities to apply technical knowledge and contribute to real-world projects.
           </p>
