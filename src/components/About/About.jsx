@@ -167,7 +167,7 @@ function About() {
                 <div className="w-48 h-48 lg:w-56 lg:h-56 rounded-full overflow-hidden glass-effect p-1">
                   <img
                     src="/avatar.jpg"
-                    alt="Nguyen Tran Gia Si"
+                    alt="Anisa Shaik"
                     className="w-full h-full object-cover rounded-full"
                     loading="lazy"
                   />
@@ -183,21 +183,18 @@ function About() {
             </motion.div>
 
             <div className="card">
-              <h3 className="text-2xl font-bold text-slate-100 mb-4">Hello! I'm Gia Si</h3>
+              <h3 className="text-2xl font-bold text-slate-100 mb-4">Hello! I'm Anisa Shaik</h3>
               <div className="space-y-4 text-slate-300 leading-relaxed">
                 <p>
                   I'm a <span className="text-blue-400 font-semibold">Full-Stack Developer</span> with a passion for building 
-                  enterprise-level applications using <span className="text-green-400 font-semibold">Java</span> and
-                  <span className="text-green-400 font-semibold"> Spring Boot</span>.
+                  enterprise-level applications using <span className="text-green-400 font-semibold">my knowledge</span> and
+                  <span className="text-green-400 font-semibold"> my skills</span>.
+                </p>
+                <p>I’m a passionate problem solver, a technology enthusiast, and a lifelong learner dedicated to creating impactful solutions. My journey in computer science has been fueled by a love for innovation and a drive to explore cutting-edge technologies.
                 </p>
                 <p>
-                  With expertise in backend architecture, microservices, and modern frontend technologies, 
-                  I create scalable solutions that drive business growth and enhance user experiences.
-                </p>
-                <p>
-                  I believe in writing clean, maintainable code and staying up-to-date with the latest 
-                  industry trends and best practices. My goal is to build applications that not only 
-                  work flawlessly but also provide exceptional user experiences.
+                  When I’m not writing code or optimizing systems, you’ll often find me diving into new trends, brainstorming creative solutions, or exploring ways to make technology more accessible and user-friendly. I believe in the power of collaboration, continuous learning, and designing with purpose.
+Let’s connect and create something extraordinary together!
                 </p>
               </div>
             </div>
