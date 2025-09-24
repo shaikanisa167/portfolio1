@@ -176,7 +176,7 @@ function Home() {
 
             <div className="flex items-center gap-6">
               <a
-                href="https://github.com/giasinguyen"
+                href="https://github.com/anisanazim"
                 target="_blank"
                 rel="noreferrer"
                 className={`glass-effect text-slate-300 hover:text-blue-400 transition-all p-4 rounded-xl ${!isMobile ? 'hover:-translate-y-1 transform duration-300 hover:shadow-lg hover:shadow-blue-500/20' : ''}`}
@@ -185,7 +185,7 @@ function Home() {
                 <FaGithub className="h-7 w-7" />
               </a>
               <a
-                href="https://linkedin.com/in/giasinguyen"
+                href="https://linkedin.com/in/anisa-shaik-5a74b61a4"
                 target="_blank"
                 rel="noreferrer"
                 className={`glass-effect text-slate-300 hover:text-blue-400 transition-all p-4 rounded-xl ${!isMobile ? 'hover:-translate-y-1 transform duration-300 hover:shadow-lg hover:shadow-blue-500/20' : ''}`}
