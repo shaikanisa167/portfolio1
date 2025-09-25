@@ -13,25 +13,19 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: FaGithub,
-      url: 'https://github.com/giasinguyen',
+      url: 'https://github.com/anisanazim',
       color: 'hover:text-gray-400'
     },
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      url: 'https://linkedin.com/in/giasinguyen',
+      url: 'https://www.linkedin.com/in/anisa-shaik-5a74b61a4/',
       color: 'hover:text-blue-400'
-    },
-    {
-      name: 'Twitter',
-      icon: FaTwitter,
-      url: 'https://twitter.com/giasinguyen',
-      color: 'hover:text-sky-400'
     },
     {
       name: 'Email',
       icon: FaEnvelope,
-      url: 'mailto:giasinguyentran@gmail.com',
+      url: 'mailto:anisa.shaik@ufl.edu',
       color: 'hover:text-red-400'
     }
   ]
@@ -47,18 +41,13 @@ const Footer = () => {
   const contactInfo = [
     {
       icon: FaEnvelope,
-      text: 'giasinguyentran@gmail.com',
-      href: 'mailto:giasinguyentran@gmail.com'
-    },
-    {
-      icon: FaPhone,
-      text: '(+84) 34 899 6487',
-      href: 'tel:+84348996487'
+      text: 'anisa.shaik@ufl.edu',
+      href: 'mailto:anisa.shaik@ufl.edu'
     },
     {
       icon: FaMapMarkerAlt,
-      text: 'Go Vap District, Ho Chi Minh City',
-      href: 'https://maps.google.com/?q=Go+Vap+District+Ho+Chi+Minh+City'
+      text: 'University of Florida',
+      href: 'https://maps.app.goo.gl/KhavKy1YF74e2CCY6'
     }
   ]
 
@@ -87,12 +76,11 @@ const Footer = () => {
                 GS
               </div>
               <h3 className="text-xl font-bold gradient-text">
-                GiaSi Nguyen
+                Anisa Shaik
               </h3>
             </div>
             <p className="text-slate-400 leading-relaxed mb-6">
-              Full-stack developer passionate about creating innovative web solutions 
-              and bringing ideas to life through clean, efficient code.
+              Full-stack developer eager to harness the power of technology to create innovative solutions that drive efficiency and foster growth
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
@@ -221,7 +209,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-400 text-sm flex items-center gap-2">
-              © {currentYear} GiaSi Nguyen. Made with 
+              © {currentYear} Anisa Shaik. Made with 
               <motion.span
                 className="text-red-400"
                 animate={{ 
@@ -236,7 +224,7 @@ const Footer = () => {
               >
                 <FaHeart />
               </motion.span>
-              in Vietnam
+              in USA
             </p>
           </div>
         </motion.div>
