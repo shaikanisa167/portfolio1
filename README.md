@@ -2,7 +2,7 @@
 
 <img src="public/logo.png" alt="GiaSi Portfolio Logo" width="120" height="120">
 
-# ✨ GiaSi Dev Portfolio
+# ✨ Anisa Shaik
 
 ### A Modern, Performance-Optimized Personal Portfolio
 
