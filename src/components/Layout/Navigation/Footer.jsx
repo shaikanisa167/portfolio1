@@ -19,7 +19,7 @@ const Footer = () => {
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      url: 'https://www.linkedin.com/in/anisa-shaik-5a74b61a4/',
+      url: 'https://linkedin.com/in/anisa-shaik-5a74b61a4/',
       color: 'hover:text-blue-400'
     },
     {
